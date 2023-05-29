@@ -1,10 +1,10 @@
 def upper_str(a):
     """docsting"""
-    s = a.upper()
-    return s
+    super_string = a.upper()
+    return super_string
 
 
 def tittle_str(a):
     """docsting"""
-    s = a.title()
-    return s
+    ultra_string = a.title()
+    return ultra_string
